@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\VI\\Desktop\\Vi\\UCSD\\CSE 110\\Projects\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\VI\\.android\\build-cache\\21353cae5879b0b6c25e9e451b89964668e6ea09\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\VI\\Desktop\\Vi\\UCSD\\CSE 110\\Projects\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\VI\\.android\\build-cache\\04632dafdc0c0685415487b4ef345e6e32abdbe8\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\VI\\Desktop\\Vi\\UCSD\\CSE 110\\Projects\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\VI\\.android\\build-cache\\04632dafdc0c0685415487b4ef345e6e32abdbe8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VI\\Desktop\\Vi\\UCSD\\CSE 110\\Projects\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\VI\\.android\\build-cache\\04632dafdc0c0685415487b4ef345e6e32abdbe8\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\VI\\Desktop\\Vi\\UCSD\\CSE 110\\Projects\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\VI\\.android\\build-cache\\21353cae5879b0b6c25e9e451b89964668e6ea09\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\VI\\Desktop\\Vi\\UCSD\\CSE 110\\Projects\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\VI\\.android\\build-cache\\21353cae5879b0b6c25e9e451b89964668e6ea09\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\VI\\Desktop\\Vi\\UCSD\\CSE 110\\Projects\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\VI\\.android\\build-cache\\21353cae5879b0b6c25e9e451b89964668e6ea09\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\VI\\Desktop\\Vi\\UCSD\\CSE 110\\Projects\\TestProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\VI\\.android\\build-cache\\04632dafdc0c0685415487b4ef345e6e32abdbe8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
